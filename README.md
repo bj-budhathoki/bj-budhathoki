@@ -14,8 +14,7 @@
         <samp>
                 「 I'm a software developer from <b>Nepal🇳🇵</b>」
                 <br>
-                「 Focused on creating impactful web/mobile applications</b> 」
-                <br>
+                「 Focused on creating impactful web/mobile applications with the following tech stack</b> 」
                 <br>
         </samp>
 
