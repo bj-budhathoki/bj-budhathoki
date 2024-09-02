@@ -94,7 +94,6 @@
   </tr>
 </table>
 <center align="center">
-    <p align="center">
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
@@ -112,7 +111,6 @@
         <a href="hhttps://x.com/Bj_budahthokis" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-@Bj_budahthoki-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white">
         </a> -->
-    </p>
 </center>
 <br>
 
