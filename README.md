@@ -93,10 +93,11 @@
 
   </tr>
 </table>
-<center align="center">
-        <br>
+<p align="center">
         <!-- Social Links -->
-        <p>Find me on</p>
+        Find me on
+        <br>
+        <br>
          <a href="https://www.linkedin.com/in/bijay-budathoki" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-bijay--budathoki-blue?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
@@ -107,11 +108,7 @@
         <a href="https://medium.com/@dev.bijay04" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-@dev.bijay04-black?style=flat-square&labelColor=black&logo=medium&logoColor=white">
         </a>
-        <!-- Youtube
-        <a href="hhttps://x.com/Bj_budahthokis" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-@Bj_budahthoki-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white">
-        </a> -->
-</center>
+</p>
 <br>
 
 <!-- Footer 👋-->
