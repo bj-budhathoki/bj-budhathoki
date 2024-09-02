@@ -100,8 +100,8 @@
          <a href="https://www.linkedin.com/in/bijay-budathoki" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-bijay--budathoki-blue?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        <a href="mailto:dev.bijay04@gmail.com.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-dev.bijay04@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+        <a href="mailto:dev.bijay04@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-dev.bijay04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
         <a href="https://medium.com/@dev.bijay04" target="_blank"><img alt="Twitter"
