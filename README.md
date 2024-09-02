@@ -12,7 +12,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Nepal</b> 」
+                「 I'm a software developer from <b>Nepal🇳🇵</b>」
                 <br>
                 「 Focused on creating impactful web/mobile applications</b> 」
                 <br>
