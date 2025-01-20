@@ -8,12 +8,7 @@
         </samp>
 </h3>
 <br>
-<h3 align="center">
 
-   ```npm
-     npx bijay-budhathoki
-   ```
-   </h3>
 <p align="center">
         <!-- Intro -->
         <samp>
@@ -114,7 +109,9 @@
         </a>
 </p>
 <br>
-
+<h3 align="center">
+     npx bijay-budhathoki
+</h3>
 <!-- Footer 👋-->
 <samp>
     <p align="center">
