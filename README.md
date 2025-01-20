@@ -110,7 +110,7 @@
 </p>
 <br>
 <h3 align="center">
-     npx bijay-budhathoki
+ $${\color{green} npx bijay-budhathoki}$$
 </h3>
 <!-- Footer 👋-->
 <samp>
