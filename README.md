@@ -8,7 +8,7 @@
         </samp>
 </h3>
 <br>
-
+```npx bijay-budhathoki```
 <p align="center">
         <!-- Intro -->
         <samp>
