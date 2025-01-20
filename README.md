@@ -109,9 +109,9 @@
         </a>
 </p>
 <br>
-<h3 align="center">
- $${\color{green} npx bijay-budhathoki}$$
-</h3>
+> ```
+> npx bijay-budhathoki
+> ```
 <!-- Footer 👋-->
 <samp>
     <p align="center">
